@@ -24,9 +24,9 @@ public class employee {
         System.out.println(employeeId);
         System.out.println(employeeName);
         System.out.println(salary);
+        System.out.println("Hello Java");
     }
-   public void display ()
-   {
-       System.out.println("Hello employee");
-   }
+  
+    
+  
 }
