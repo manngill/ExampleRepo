@@ -19,6 +19,13 @@ public class EmployeeManagement {
         e1.employeeName = "mann";
         e1.salary = 12220;
         e1.display();
+        
+        
+        employee e2 = new employee();
+        e2.employeeId = 1;
+        e2.employeeName = "mann";
+        e2.salary = 12220;
+        e2.display();
     }
      
 }
