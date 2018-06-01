@@ -25,5 +25,8 @@ public class employee {
         System.out.println(employeeName);
         System.out.println(salary);
     }
-   
+   public void display ()
+   {
+       System.out.println("Hello employee");
+   }
 }
