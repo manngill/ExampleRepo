@@ -11,9 +11,7 @@ package employeemanagement;
  */
 public class EmployeeManagement {
 
-    /**
-     * @param args the command line arguments
-     */
+   
     public static void main(String[] args) {
        
         employee e1 = new employee();
@@ -22,5 +20,4 @@ public class EmployeeManagement {
         e1.salary = 12220;
         e1.display();
     }
-    
 }
