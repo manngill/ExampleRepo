@@ -15,7 +15,12 @@ public class EmployeeManagement {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+       
+        employee e1 = new employee();
+        e1.employeeId = 1;
+        e1.employeeName = "mann";
+        e1.salary = 12220;
+        e1.display();
     }
     
 }
